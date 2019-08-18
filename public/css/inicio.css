@@ -1,0 +1,16 @@
+body {
+    background-color:#edf2fa;
+}
+
+#divinicio {
+    margin: 0 auto; 
+}
+
+#botaoinico {
+    
+    padding: 5px;
+    font-size: 50px;
+    background: #7dddef;
+    color: #e8f9fc;
+    text-decoration: none;
+}
