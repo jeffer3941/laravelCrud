@@ -15,4 +15,4 @@ criar um novo usuário fazer a edição das informações passada e visualizar s
 <p>Para o devido funcionamento deste sistema é preciso ter em sua máquina os seguintes requisitos: PHP >= 7.1.3,  composer  e servidor local artisan 
 </p>
 
-<p>Após o dowload do sistema na sua máquina execute o seguinte comando em seu Prompt, no correto diretório, composer install, em seguida digite o comando <strong>php artisan serve</strong> , Cole o seguinte endereço em seu navegador http://127.0.0.1:8000 e sera possivel a utilização do sistema</p>
+<p>Após o dowload do sistema na sua máquina execute o seguinte comando em seu Prompt, no correto diretório, <strong> composer install </strong>, em seguida digite o comando <strong>php artisan serve</strong> , Cole o seguinte endereço em seu navegador http://127.0.0.1:8000 e sera possivel a utilização do sistema</p>
